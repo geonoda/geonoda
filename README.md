@@ -6,9 +6,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rjsdh15963&show_icons=true&theme=tokyonight)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=rjsdh15963&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjsdh15963&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=geonoda&show_icons=true&theme=tokyonight)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=geonoda&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geonoda&layout=compact&theme=tokyonight)
 
 ---
 
@@ -21,8 +21,6 @@
 ## 🧠 Baekjoon
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjsdh15963)](https://solved.ac/rjsdh15963)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=rjsdh15963&theme=warm)](https://solved.ac/rjsdh15963)
-
 ---
 
 ## ✍️ Blog
