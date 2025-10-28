@@ -7,7 +7,6 @@
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geonoda&show_icons=true&theme=tokyonight)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=geonoda&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geonoda&layout=compact&theme=tokyonight)
 
 ---
@@ -28,9 +27,10 @@
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://rjsdh15963.tistory.com/)
 
 📰 **Latest posts**
-- [메이플 모작](https://rjsdh15963.tistory.com/category/UNITY/Maple)
-
-
+- [Maple Clone](https://rjsdh15963.tistory.com/category/UNITY/Maple)
+- [C++](https://rjsdh15963.tistory.com/category/C%2B%2B)
+- [GameServer](https://rjsdh15963.tistory.com/category/%EA%B2%8C%EC%9E%84%EC%84%9C%EB%B2%84%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+- [Algorithm](https://rjsdh15963.tistory.com/category/%EB%B0%B1%EC%A4%80)
 ---
 
 ## 🧰 Skills
