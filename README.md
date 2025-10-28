@@ -1,21 +1,49 @@
-## Hi there 👋
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjsdh15963)](https://solved.ac/rjsdh15963)​
+# 👋 Geon-O
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Geon-O%20🔥&fontSize=40&fontAlignY=35&fontColor=fff)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rjsdh15963&show_icons=true&theme=tokyonight)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=rjsdh15963&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjsdh15963&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Featured Projects
+
+- [🎮 MapleStory Clone](https://github.com/rjsdh15963/Maple) : Unity & C# 기반의 멀티플레이 2D MMORPG
+
+---
+
+## 🧠 Baekjoon
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjsdh15963)](https://solved.ac/rjsdh15963)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=rjsdh15963&theme=warm)](https://solved.ac/rjsdh15963)
+
+---
+
+## ✍️ Blog
+
+[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://rjsdh15963.tistory.com/)
+
+📰 **Latest posts**
+- [메이플 모작](https://rjsdh15963.tistory.com/category/UNITY/Maple)
 
 
-<!--
-**geonoda/geonoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧰 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Photon](https://img.shields.io/badge/Photon-3E8ACC?style=flat&logo=photon&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
