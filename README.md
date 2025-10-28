@@ -37,10 +37,15 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@rjsdh15963)
 
 📰 **Latest posts**
-- [Maple Clone](https://rjsdh15963.tistory.com/category/UNITY/Maple)
-- [C++](https://rjsdh15963.tistory.com/category/C%2B%2B)
-- [GameServer](https://rjsdh15963.tistory.com/category/%EA%B2%8C%EC%9E%84%EC%84%9C%EB%B2%84%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
-- [Algorithm](https://rjsdh15963.tistory.com/category/%EB%B0%B1%EC%A4%80)
+<blockquote>
+<b>rjsdh15963.log's latest posts</b><br>
+
+- <a href="https://rjsdh15963.tistory.com/category/UNITY/Maple" target="_blank" style="color:#6c757d; text-decoration:none;">Maple Clone</a><br>
+- <a href="https://rjsdh15963.tistory.com/category/C%2B%2B" target="_blank" style="color:#6c757d; text-decoration:none;">C++</a><br>
+- <a href="https://rjsdh15963.tistory.com/category/%EA%B2%8C%EC%9E%84%EC%84%9C%EB%B2%84%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D" target="_blank" style="color:#6c757d; text-decoration:none;">Game Server Programming</a><br>
+- <a href="https://rjsdh15963.tistory.com/category/%EB%B0%B1%EC%A4%80" target="_blank" style="color:#6c757d; text-decoration:none;">Algorithm</a>
+</blockquote>
+
 ---
 
 ## 🧰 Skills
