@@ -4,6 +4,12 @@
 
 ---
 
+🎮 Game Developer  
+📺 YouTube : [https://www.youtube.com/@rjsdh15963](https://www.youtube.com/@rjsdh15963)  
+📝 Blog : [Tistory](https://rjsdh15963.tistory.com/)
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geonoda&show_icons=true&theme=tokyonight)
@@ -13,7 +19,10 @@
 
 ## 🚀 Featured Projects
 
-- [🎮 MapleStory Clone](https://github.com/rjsdh15963/Maple) : Unity & C# 기반의 멀티플레이 2D MMORPG
+- 🎮 **MapleStory Clone** : Unity & C# & MySQL 기반의 멀티플레이 2D MMORPG  
+- 🎮 **CrazeArcade Clone** : Unity & Photon & Firebase  
+- 🎮 **Chicken Game Clone** : Unity & Photon  
+- 🎮 **Cheese in the Trap** : Unity & Photon & Firebase & Team Project  
 
 ---
 
@@ -22,9 +31,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjsdh15963)](https://solved.ac/rjsdh15963)
 ---
 
-## ✍️ Blog
+## ✍️ Blog & YouTube
 
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://rjsdh15963.tistory.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@rjsdh15963)
 
 📰 **Latest posts**
 - [Maple Clone](https://rjsdh15963.tistory.com/category/UNITY/Maple)
