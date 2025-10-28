@@ -19,10 +19,14 @@
 
 ## 🚀 Featured Projects
 
-- 🎮 **MapleStory Clone** : Unity & C# & MySQL 기반의 멀티플레이 2D MMORPG  
-- 🎮 **CrazeArcade Clone** : Unity & Photon & Firebase  
-- 🎮 **Chicken Game Clone** : Unity & Photon  
-- 🎮 **Cheese in the Trap** : Unity & Photon & Firebase & Team Project  
+- 🎮 **MapleStory Clone** : Unity & C# & MySQL 기반의 멀티플레이 2D MMORPG
+- 🔗 [🎥](https://www.youtube.com/watch?v=RE1IBLg0GBU)
+- 🎮 **CrazeArcade Clone** : Unity & Photon & Firebase
+- 🔗 [🎥](https://www.youtube.com/watch?v=lxKFN95Zd_w)
+- 🎮 **Chicken Game Clone** : Unity & Photon
+- 🔗 [🎥](https://www.youtube.com/watch?v=W0h2WVHTIV8)
+- 🎮 **Cheese in the Trap** : Unity & Photon & Firebase & Team Project
+- 🔗 [🎥](https://www.youtube.com/watch?v=ZlCjgLth4OI)
 
 ---
 
