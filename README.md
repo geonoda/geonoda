@@ -10,13 +10,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=geonoda&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geonoda&layout=compact&theme=tokyonight)
-
----
-
 ## 🚀 Featured Projects
 
 - 🎮 **MapleStory Clone** : Unity & C# & MySQL 기반의 멀티플레이 2D MMORPG [🎥](https://www.youtube.com/watch?v=RE1IBLg0GBU)
